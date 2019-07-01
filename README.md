@@ -12,5 +12,5 @@ This means that we would like to know the equivalent of 110 Kilometers in meters
 The output of this program will be another text file printing out the answer for each desired conversion:
 110 KM M 110000
 where 110000 is the result of 110km to 110000 in meters
-![Alt text](https://github.com/Ergerica/Universal-translator/blob/master/WhatsApp%20Image%202019-06-26%20at%209.35.41%20PM.jpeg=true "Title")
+![Alt text](WhatsApp Image 2019-06-26 at 9.35.41 PM.jpeg)
 
