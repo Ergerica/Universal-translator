@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/erica/Documents/Universal-translator/Universal-translator.csproj": {}
+  },
+  "projects": {
+    "/home/erica/Documents/Universal-translator/Universal-translator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/erica/Documents/Universal-translator/Universal-translator.csproj",
+        "projectName": "Universal-translator",
+        "projectPath": "/home/erica/Documents/Universal-translator/Universal-translator.csproj",
+        "packagesPath": "/home/erica/.nuget/packages/",
+        "outputPath": "/home/erica/Documents/Universal-translator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/erica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Nunit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+/home/erica/Documents/Universal-translator/obj/Debug/netcoreapp2.2/Universal-translator.csprojAssemblyReference.cache
+/home/erica/Documents/Universal-translator/obj/Debug/netcoreapp2.2/Universal-translator.csproj.CoreCompileInputs.cache
+/home/erica/Documents/Universal-translator/obj/Debug/netcoreapp2.2/Universal-translator.AssemblyInfoInputs.cache
+/home/erica/Documents/Universal-translator/obj/Debug/netcoreapp2.2/Universal-translator.AssemblyInfo.cs
