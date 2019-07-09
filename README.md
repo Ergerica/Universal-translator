@@ -18,4 +18,4 @@ The instructions to use this are:
 ie: let's say the file you would like to read from is in this path
 "/home/erica/Documents/Universal-translator" you must write the name of the file after this like
 "/home/erica/Documents/Universal-translator/testdoc" this is the full path to the file
-3. when looking for the final results check in the answers doc to find it.
+3. when looking for the final results check in the .txt where you chose to save it to find it.
